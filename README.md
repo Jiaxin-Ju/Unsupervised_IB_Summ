@@ -9,3 +9,5 @@ IBsumm is implemented using Python3.7 with dependencies specified in requirement
 import nltk
 nltk.download('punkt','stopwords','wordnet','omw-1.4')
 ```
+
+For global labels computed using pre-trained Longformer, please download [here](https://drive.google.com/file/d/1itVpchvwZN3-lY5YCPWO3YIOGSzxPF_c/view?usp=sharing) 
