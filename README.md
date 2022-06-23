@@ -5,6 +5,7 @@ EMNLP 2021 Findings paper: Leveraging Information Bottleneck for Scientific Docu
 ## Requirements 
 IBsumm is implemented using Python3.7 with dependencies specified in requirements.txt. To download all the required packages, use the code block below: 
 ```
+!pip install -r requirements.txt
 !pip install transformers==3.4.0
 !pip install pytorch-transformers
 !pip install tensorflow==2.3.0
